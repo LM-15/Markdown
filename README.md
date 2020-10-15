@@ -1,14 +1,14 @@
 # Markdown
 
+## What is it?
+* Way to stylize text on the web (a free text to HTML conversion tool)
+* Can use in many places in Github: gists (whatever those are); comments in issues and pull requests; files with .md or .markdown extensions
+
 ## Headings:
 * Use 1 to 6 hashmarks to changes the sizes:
   * # Largest
   * ## Second largest
   * ###### Smallest
-
-## What is it?
-* Way to stylize text on the web (a free text to HTML conversion tool)
-* Can use in many places in Github: gists (whatever those are); comments in issues and pull requests; files with .md or .markdown extensions
 
 ## Commonly used syntax:
 * Italic
@@ -32,7 +32,7 @@
 
 ## Links to URLs:
 * Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
-  * [Fun Demilked link}(https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
+  * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
 
 ## More info:
 * [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
