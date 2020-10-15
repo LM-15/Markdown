@@ -37,7 +37,8 @@
   * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
 
 ## Add tables:
-* add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
+Add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
+
 Halloween candy | Rating
 --------------- | ------
 Payday Bar | Favorite
