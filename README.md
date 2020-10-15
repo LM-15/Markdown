@@ -14,7 +14,10 @@
 * One asterisk in front of each line in the list; put a space between the asterisk and the text
   * If you want to indent elements of the list, add two tabs, then add the asterisk, a space and the text
   
+## Ordered lists
+1. "1." in front of each line in the list; put a space between the "1." and the text
+  1. If you want to indent elements of the list, add two tabs, then ad the "1.", a space and the text
 
 ## More info:
-* [Github's Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
-* [GitHub's Basic writing and formatting syntax] (https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+* [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [GitHub's Basic writing and formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
