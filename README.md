@@ -6,17 +6,19 @@
 
 ## Commonly used syntax:
 * Italic
-  * an asterisk or underscore in front and at the end of text (no spaces)
+  * *an asterisk or underscore in front and at the end of text (no spaces)*
 * Bold
-  * 2 asterisks or 2 underscores in front and at the end of text (no spaces)
+  * **2 asterisks or 2 underscores in front and at the end of text (no spaces)**
+* Strikethrough
+  * ~~2 tildes in front and at the end of text (no spaces)~~
 
 ## Unordered lists:
 * One asterisk or dash in front of each line in the list; put a space between the asterisk or dash and the text
-  * If you want to indent elements of the list, add the number of spaces indented you want, then add the asterisk, a space and the text
+  * If you want to indent elements of the list, add spaces until the cursor is under hte text of the bullet above, then add the asterisk, a space and the text
   
 ## Ordered lists
 1. "1." in front of each line in the list; put a space between the "1." and the text
-   1. If you want to indent elements of the list, add the number of spaces indented you want, then add the "1.", a space and the text
+   1. If you want to indent elements of the list, add spaces until the cursor is under the text of the bullet above, then add the "1.", a space and the text
    1. and another
 1. and another
 
