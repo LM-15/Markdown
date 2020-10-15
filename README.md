@@ -6,7 +6,12 @@
 * Can use in many places in Github: gists (whatever those are), comments in issues and pull requests; files with .md or .markdown extensions
 
 
-##Commonly used syntax:
+## Commonly used syntax:
+* Italic
+** an asterisk in front of and at the end of text:
+** e.g.: *in italic* ; _in italic_
+* Bold
+
 
 *This text will be italic*
 _This will also be italic_
