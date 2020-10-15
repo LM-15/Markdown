@@ -30,6 +30,11 @@
    1. and another indented
 1. and another
 
+## Links to URLs:
+* Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
+  * [Fun Demilked link}(https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
+
 ## More info:
 * [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [GitHub's Basic writing and formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+* [GitHub's Keyboard shortcuts](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/keyboard-shortcuts)
