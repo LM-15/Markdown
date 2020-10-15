@@ -8,8 +8,8 @@
 
 ## Commonly used syntax:
 * Italic
-** an asterisk in front of and at the end of text:
-** e.g.: *in italic* ; _in italic_
+  * an asterisk in front of and at the end of text:
+  * e.g.: *in italic* ; _in italic_
 * Bold
 
 
