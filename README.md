@@ -17,7 +17,7 @@
   * **2 asterisks or 2 underscores in front and at the end of text (no spaces)**
 * Strikethrough
   * ~~2 tildes in front and at the end of text (no spaces)~~
-* Ignore markdown symbols by putting back slashes in front of them:
+* Ignore markdown symbols by putting back slashes in front of each symbol, e.g.:
   * It is \*high time\*
 
 ## Unordered lists:
@@ -35,6 +35,15 @@
 ## Links to URLs:
 * Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
   * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
+
+## Add tables:
+* add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
+Halloween candy | Rating
+--------------- | ------
+Payday Bar | Favorite
+Twizlers | Least favorite
+Mars Bar | OK
+
 
 ## More info:
 * [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
