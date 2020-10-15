@@ -45,6 +45,9 @@ Payday Bar | Favorite
 Twizlers | Least favorite
 Mars Bar | OK
 
+## Username @mentions
+* Type an at symbol followed by a user or team name to notify a person to review a comment
+  * @LM-15
 
 ## More info:
 * [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
