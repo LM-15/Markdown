@@ -17,17 +17,19 @@
   * **2 asterisks or 2 underscores in front and at the end of text (no spaces)**
 * Strikethrough
   * ~~2 tildes in front and at the end of text (no spaces)~~
+* Ignore markdown symbols by putting back slashes in front of them:
+  * It is \*high time\*
 
 ## Unordered lists:
 * One asterisk or dash in front of each line in the list; put a space between the asterisk or dash and the text
-  * If you want to indent elements of the list, add spaces until the cursor is under hte text of the bullet above, then add the asterisk, a space and the text
-  * and another indented
+  * If you want to nest elements of the list, add spaces until the cursor is under the text of the bullet above, then add the asterisk, a space and the text
+  * and another nested
 * and another
   
 ## Ordered lists
 1. "1." in front of each line in the list; put a space between the "1." and the text
-   1. If you want to indent elements of the list, add spaces until the cursor is under the text of the bullet above, then add the "1.", a space and the text
-   1. and another indented
+   1. If you want to nest elements of the list, add spaces until the cursor is under the text of the bullet above, then add the "1.", a space and the text
+   1. and another nested
 1. and another
 
 ## Links to URLs:
