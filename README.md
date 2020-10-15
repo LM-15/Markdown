@@ -16,8 +16,8 @@
   
 ## Ordered lists
 1. "1." in front of each line in the list; put a space between the "1." and the text
-  1. If you want to indent elements of the list, add the number of spaces indented you want, then add the "1.", a space and the text
-  1. and another
+   1. If you want to indent elements of the list, add the number of spaces indented you want, then add the "1.", a space and the text
+   1. and another
 1. and another
 
 ## More info:
