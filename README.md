@@ -10,9 +10,11 @@
 * Bold
   * 2 asterisks or 2 underscores in front and at the end of text (no spaces)
 
+## Unordered lists:
+* One asterisk in front of each line in the list; put a space between the asterisk and the text
+  * If you want to indent elements of the list, add two tabs, then add the asterisk, a space and the text
+  
 
-
-## URLs with more info:
-* [
-* [Github's Mastering Markdonw] https://guides.github.com/features/mastering-markdown/
-* https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+## More info:
+* [Github's Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+* [GitHub's Basic writing and formatting syntax] (https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
