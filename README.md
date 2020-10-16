@@ -37,7 +37,7 @@
 ## Links to URLs:
 * Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
   * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
-* Or just paste the full URL
+* Or just paste the full URL: https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/
 
 ## Quoting
 * Quote text with a greater than sign:
