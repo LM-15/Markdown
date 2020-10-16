@@ -41,8 +41,8 @@
 
 ## Quoting
 * Quote text with a greater than sign:
-  * In the words of Dracula:
-  * > I vant to drink your blood
+  * In the words of Vincent Price:
+  * > It is as much fun to scare as to be scared.
 * Quote a command/code using single backticks before and after a piece of text:
   * Use the `Instances` table to...
 
