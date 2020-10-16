@@ -2,6 +2,7 @@
 
 ## What is it?
 * Way to stylize text on the web (a free text to HTML conversion tool)
+* Here, you can click on the `Raw` button above to see the Markdown syntax without having to edit.
 * Can use in many places in Github: gists (repositories to share your ideas with others?); comments in issues and pull requests; files with .md or .markdown extensions
 * GitHub.com has some syntax of its own that provides an additional features, many of which make it easier to work with content on GitHub.com.  
    * > Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
