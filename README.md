@@ -12,7 +12,7 @@
   * ## Second largest
   * ###### Smallest
 
-## Commonly used syntax:
+## Styling text:
 * Italic
   * *an asterisk or underscore in front and at the end of text (no spaces)*
 * Bold
@@ -38,6 +38,13 @@
 * Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
   * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
 * Or just paste the full URL
+
+## Quoting
+* Quote text with a greater than sign:
+  * In the words of Dracula:
+  * > I vant to drink your blood
+* Quote a command/code using single backticks before and after a piece of text:
+  * Use the `Instances` table to...
 
 ## Add tables:
 Add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
