@@ -2,7 +2,7 @@
 
 ## What is it?
 * Way to stylize text on the web (a free text to HTML conversion tool)
-* Can use in many places in Github: gists (whatever those are); comments in issues and pull requests; files with .md or .markdown extensions
+* Can use in many places in Github: gists (repositories to share your ideas with others?); comments in issues and pull requests; files with .md or .markdown extensions
 
 ## Headings:
 * Use 1 to 6 hashmarks to changes the sizes:
@@ -35,6 +35,7 @@
 ## Links to URLs:
 * Put the link text in brakets, then past the URL in parentheses right after that with no spaces:
   * [Fun, seasonal Demilked link](https://www.demilked.com/upcycling-old-doll-houses-samantha-browning/)
+* Or just paste the full URL
 
 ## Add tables:
 Add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
