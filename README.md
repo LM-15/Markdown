@@ -53,7 +53,7 @@ Add a list of column headers separated by subfield markers; then in next row add
 Halloween candy | Rating
 --------------- | ------
 Payday Bar | Favorite
-Twizlers | Least favorite
+Twizlers | OK
 Mars Bar | OK
 
 ## Username @mentions
