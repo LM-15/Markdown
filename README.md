@@ -1,6 +1,6 @@
 # Markdown
 
-## Contents exxample (get the link by hovering over the link (not in edit mode) and copying the link)
+## Contents exxample (get the link by hovering over the link (not in edit mode), right clicking, and copying the link)
 * [What is it](https://github.com/LM-15/Markdown/blob/main/README.md#what-is-it)
 
 ## What is it?
