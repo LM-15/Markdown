@@ -58,6 +58,8 @@ Halloween candy | Rating
 Payday Bar | Favorite
 Twizlers | OK
 Mars Bar | OK
+Peanut Butter cup | Second most likely to be stollen by family members when you are not looking; hide these securely.  May be traded for three times lesser candies.
+1,000,000 dollar bars | Very rare.
 
 ## Username @mentions
 * Type an at symbol followed by a user or team name to notify a person to review a comment
