@@ -51,15 +51,15 @@
   * Use the `Instances` table to...
 
 ## Add tables:
-Add a list of column headers separated by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content, then add content separated by subfield markers:
+Add a list of column headers separated (and surrounded) by subfield markers; then in next row add hyphens and subfield markers to separate the headers from the content (can be just 3), then add content separated by subfield markers.  Can use "<br>" to start a new line in the same cell.:
 
-Halloween candy | Rating
---------------- | ------
-Payday Bar | Favorite
-Twizlers | OK
-Mars Bar | OK
-Peanut Butter cup | Second most likely to be stollen by family members when you are not looking; hide these securely.  May be traded for three times lesser candies.
-1,000,000 dollar bars | Very rare.
+|Halloween candy|Rating|
+|---|---|
+|Payday Bar|Favorite|
+|Twizlers |OK|
+|Mars Bar |OK|
+|Peanut Butter cup|Second most likely to be stollen by family members when you are not looking; hide these securely.  May be traded for three times lesser candies.|
+|1,000,000 dollar bars|Very rare.|
 
 ## Username @mentions
 * Type an at symbol followed by a user or team name to notify a person to review a comment
